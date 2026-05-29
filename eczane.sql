@@ -1,0 +1,1 @@
+INSERT INTO ECZANE (telNo, eczaneAdi, eczaneAdres) VALUES ('02662222222', 'Zonguldak Eczanesi', 'Mithatpaşa Mahallesi No:5');
